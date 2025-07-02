@@ -9,5 +9,3 @@
 
 ```bash
 nuclei -u https://target.site -t evo-templates/
-
-
